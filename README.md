@@ -1,7 +1,7 @@
 # 📊 EDA & Business Intelligence Project
 
 ## 👤 Author
-[Your Name]
+Goldi Kuamri
 
 ---
 
